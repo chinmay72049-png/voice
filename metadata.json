@@ -1,0 +1,6 @@
+{
+  "name": "Conversational Voice AI",
+  "description": "A high-fidelity Indian accent voice assistant with emotional conversations, local language support, and real-time lag tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
